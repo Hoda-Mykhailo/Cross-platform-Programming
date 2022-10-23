@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\CP_Lab3\CP_Lab3\bin\Debug\CP_Lab3.exe.config
+C:\Users\USER\source\repos\CP_Lab3\CP_Lab3\bin\Debug\CP_Lab3.exe
+C:\Users\USER\source\repos\CP_Lab3\CP_Lab3\bin\Debug\CP_Lab3.pdb
+C:\Users\USER\source\repos\CP_Lab3\CP_Lab3\obj\Debug\CP_Lab3.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\CP_Lab3\CP_Lab3\obj\Debug\CP_Lab3.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\CP_Lab3\CP_Lab3\obj\Debug\CP_Lab3.exe
+C:\Users\USER\source\repos\CP_Lab3\CP_Lab3\obj\Debug\CP_Lab3.pdb
+C:\Users\USER\source\repos\CP_Lab3\CP_Lab3\bin\Debug\CommandLineUtils.Extensions.dll
+C:\Users\USER\source\repos\CP_Lab3\CP_Lab3\bin\Debug\Humanizer.dll
+C:\Users\USER\source\repos\CP_Lab3\CP_Lab3\bin\Debug\McMaster.Extensions.CommandLineUtils.dll
+C:\Users\USER\source\repos\CP_Lab3\CP_Lab3\bin\Debug\System.ValueTuple.dll
+C:\Users\USER\source\repos\CP_Lab3\CP_Lab3\bin\Debug\CommandLineUtils.Extensions.xml
+C:\Users\USER\source\repos\CP_Lab3\CP_Lab3\bin\Debug\McMaster.Extensions.CommandLineUtils.xml
+C:\Users\USER\source\repos\CP_Lab3\CP_Lab3\bin\Debug\System.ValueTuple.xml
+C:\Users\USER\source\repos\CP_Lab3\CP_Lab3\obj\Debug\CP_Lab3.csproj.CopyComplete

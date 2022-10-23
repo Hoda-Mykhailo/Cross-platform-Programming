@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CommandLineUtils.Extensions</name>
+    </assembly>
+    <members>
+        <member name="T:CommandLineUtils.Extensions.CommandBuilderExtensions">
+            <summary>
+            Provides access to builders that help to configure <see cref="T:McMaster.Extensions.CommandLineUtils.CommandLineApplication"/>s.
+            </summary>
+        </member>
+        <member name="M:CommandLineUtils.Extensions.CommandBuilderExtensions.Options``1(``0,System.Action{CommandLineUtils.Extensions.Options.IOptionsBuilder})">
+            <summary>
+            Builds command options.
+            </summary>
+        </member>
+        <member name="T:CommandLineUtils.Extensions.CommandExtensions">
+            <summary>
+            Provides extension methods for <see cref="T:McMaster.Extensions.CommandLineUtils.CommandLineApplication"/>s.
+            </summary>
+        </member>
+        <member name="M:CommandLineUtils.Extensions.CommandExtensions.CommandChain(McMaster.Extensions.CommandLineUtils.CommandLineApplication)">
+            <summary>
+            Enumerates a command's parent chain up to the root command.
+            This includes the starting command.
+            </summary>
+            <param name="start">The command to start with.</param>
+        </member>
+        <member name="T:CommandLineUtils.Extensions.Conventions.ConventionBuilderExtensions">
+            <summary>
+            Provides additional conventions.
+            </summary>
+        </member>
+        <member name="M:CommandLineUtils.Extensions.Conventions.ConventionBuilderExtensions.UseOptionProperties(McMaster.Extensions.CommandLineUtils.Conventions.IConventionBuilder,System.String,System.String)">
+            <summary>
+            Enables setting properties on a command model from <see cref="T:McMaster.Extensions.CommandLineUtils.CommandOption"/>s.
+            </summary>
+            <param name="builder">The convention builder.</param>
+            <param name="propertySuffix">The naming suffix for candidate properties that should have option values mapped to them.</param>
+            <param name="nestedPropertySuffix">The naming suffix to use for properties of a complex type (non-primitive) that option values should be mapped to.</param>
+        </member>
+        <member name="M:CommandLineUtils.Extensions.Conventions.ConventionBuilderExtensions.UseDefaultConventionsWithServices(McMaster.Extensions.CommandLineUtils.Conventions.IConventionBuilder,System.IServiceProvider)">
+            <summary>
+            Provides the same conventions as using <see cref="M:McMaster.Extensions.CommandLineUtils.ConventionBuilderExtensions.UseDefaultConventions(McMaster.Extensions.CommandLineUtils.Conventions.IConventionBuilder)"/>, 
+            but with an additional external service provider.
+            </summary>
+            <param name="builder">The convention builder.</param>
+            <param name="additionalServices">Additional services that should be passed to the service provider.</param>
+        </member>
+        <member name="T:CommandLineUtils.Extensions.Conventions.OptionPropertiesConvention">
+            <summary>
+            A convention that sets properties on command models using the values from matching options.
+            </summary>
+        </member>
+        <member name="P:CommandLineUtils.Extensions.Conventions.OptionPropertiesConvention.NestedPropertySuffix">
+            <summary>
+            The naming suffix to use for properties of a nested complex type (non-primitive) that option values should be mapped to.
+            </summary>
+        </member>
+        <member name="P:CommandLineUtils.Extensions.Conventions.OptionPropertiesConvention.PropertySuffix">
+            <summary>
+            The naming suffix for candidate properties that should have option values mapped to them.
+            </summary>
+        </member>
+        <member name="M:CommandLineUtils.Extensions.Conventions.OptionPropertiesConvention.Apply(McMaster.Extensions.CommandLineUtils.Conventions.ConventionContext)">
+            <summary>
+            Applies the convention.
+            </summary>
+            <param name="context">The context in which the convention is applied.</param>
+        </member>
+        <member name="T:CommandLineUtils.Extensions.Options.IOptionsBuilder">
+            <summary>
+            Provides command option configuration.
+            </summary>
+        </member>
+        <member name="M:CommandLineUtils.Extensions.Options.IOptionsBuilder.WithDescriptionsFrom(System.Func{System.Func{System.String,System.String}})">
+            <summary>
+            Sets the source (such as a resource file) from which shared command option descriptions are retrieved. 
+            This should be a dictionary keyed by option long names.
+            </summary>
+            <param name="descriptionProvider">A function providing a mapping between option long names and description strings.</param>
+        </member>
+        <member name="M:CommandLineUtils.Extensions.Options.IOptionsBuilder.Option(System.String,System.String,McMaster.Extensions.CommandLineUtils.CommandOptionType,System.Boolean)">
+            <summary>
+            Registers a new shared command option.
+            </summary>
+            <param name="template">The option template string.</param>
+            <param name="description">The option's description.</param>
+            <param name="type">The option's type.</param>
+            <param name="inherited">Whether an option should be inherited by child commands.</param>
+        </member>
+        <member name="M:CommandLineUtils.Extensions.Options.IOptionsBuilder.Option``1(System.String,System.String,McMaster.Extensions.CommandLineUtils.CommandOptionType,System.Boolean)">
+            <summary>
+            Registers a new shared command option.
+            </summary>
+            <typeparam name="T">The option's value type.</typeparam>
+            <param name="template">The option template string.</param>
+            <param name="description">The option's description.</param>
+            <param name="type">The option's type.</param>
+            <param name="inherited">Whether an option should be inherited by child commands.</param>
+        </member>
+        <member name="P:CommandLineUtils.Extensions.Options.IOptionsBuilder.Command">
+            <summary>
+            The command for which options are being configured.
+            </summary>
+        </member>
+        <member name="T:CommandLineUtils.Extensions.Options.MappingExtensions">
+            <summary>
+            Provides methods for mapping <see cref="T:McMaster.Extensions.CommandLineUtils.CommandOption"/>s to POCO object instances.
+            </summary>
+        </member>
+        <member name="M:CommandLineUtils.Extensions.Options.MappingExtensions.Map``1(System.Collections.Generic.IEnumerable{McMaster.Extensions.CommandLineUtils.CommandOption})">
+            <summary>
+            Maps the values of a collection of options to a new instance of a class.
+            </summary>
+        </member>
+        <member name="M:CommandLineUtils.Extensions.Options.MappingExtensions.Map``1(System.Collections.Generic.IEnumerable{McMaster.Extensions.CommandLineUtils.CommandOption},``0)">
+            <summary>
+            Maps the values of a collection of options to an instance of a class.
+            </summary>
+        </member>
+        <member name="M:CommandLineUtils.Extensions.Options.MappingExtensions.GetValue``1(McMaster.Extensions.CommandLineUtils.CommandOption)">
+            <summary>
+            Attempts to get the value of a <see cref="T:McMaster.Extensions.CommandLineUtils.CommandOption"/> given the target type <typeparamref name="T"/>.
+            </summary>
+            <typeparam name="T">The expected type of the option's value.</typeparam>
+        </member>
+        <member name="M:CommandLineUtils.Extensions.Options.MappingExtensions.GetValue(McMaster.Extensions.CommandLineUtils.CommandOption,System.Type)">
+            <summary>
+            Attempts to get the value of a <see cref="T:McMaster.Extensions.CommandLineUtils.CommandOption"/> given the target <paramref name="type"/>.
+            </summary>
+        </member>
+        <member name="M:CommandLineUtils.Extensions.Utilities.StringExtensions.ToPascalCase(System.String)">
+            <summary>
+            Converts kebab or underscore case to pascal case.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tQ59omQ+m0eBIXuLgMRMjK4od8SanlZ3AgSlG+bt170Jq/ikSObZgtRS5GVcHx70el9UuCCqCQB9A08CG+qG0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\CP_test\\CP_test\\CP_test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\commandlineutils.extensions\\1.1.0\\commandlineutils.extensions.1.1.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\humanizer.core\\2.3.3\\humanizer.core.2.3.3.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\mcmaster.extensions.commandlineutils\\2.2.4\\mcmaster.extensions.commandlineutils.2.2.4.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

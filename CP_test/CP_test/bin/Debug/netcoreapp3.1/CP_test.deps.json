@@ -1,0 +1,86 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CP_test/1.0.0": {
+        "dependencies": {
+          "CommandLineUtils.Extensions": "1.1.0"
+        },
+        "runtime": {
+          "CP_test.dll": {}
+        }
+      },
+      "CommandLineUtils.Extensions/1.1.0": {
+        "dependencies": {
+          "Humanizer.Core": "2.3.3",
+          "McMaster.Extensions.CommandLineUtils": "2.2.4"
+        },
+        "runtime": {
+          "lib/netstandard2.0/CommandLineUtils.Extensions.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        }
+      },
+      "Humanizer.Core/2.3.3": {
+        "runtime": {
+          "lib/netstandard2.0/Humanizer.dll": {
+            "assemblyVersion": "2.3.0.0",
+            "fileVersion": "2.3.3.7211"
+          }
+        }
+      },
+      "McMaster.Extensions.CommandLineUtils/2.2.4": {
+        "dependencies": {
+          "System.ComponentModel.Annotations": "4.4.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/McMaster.Extensions.CommandLineUtils.dll": {
+            "assemblyVersion": "2.2.4.0",
+            "fileVersion": "2.2.4.286"
+          }
+        }
+      },
+      "System.ComponentModel.Annotations/4.4.1": {}
+    }
+  },
+  "libraries": {
+    "CP_test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CommandLineUtils.Extensions/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3PMgXDG1Avyljb4CdFWhmBZY1WmBzY/lztXJhMVIKqn/P0TCqTlz9RyxJXlJfsNHiv0nGDIdBVUWB4QC3kceTw==",
+      "path": "commandlineutils.extensions/1.1.0",
+      "hashPath": "commandlineutils.extensions.1.1.0.nupkg.sha512"
+    },
+    "Humanizer.Core/2.3.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-05+UOq9zDOoSmzZMw/VO+yWDGGqjgCnH0cDSiFIu5GfvWL8j/uFnWQOCJD4dxcORYkVqiHiKi1y6n4gj5DQtRw==",
+      "path": "humanizer.core/2.3.3",
+      "hashPath": "humanizer.core.2.3.3.nupkg.sha512"
+    },
+    "McMaster.Extensions.CommandLineUtils/2.2.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YrYy/0gbHn4WGz61GO/zWisPkSfBfMcpJF7s1buoVDNh41+3P7xQujKMAhKdP4yOkxQxj6F600I0EHBsrncedA==",
+      "path": "mcmaster.extensions.commandlineutils/2.2.4",
+      "hashPath": "mcmaster.extensions.commandlineutils.2.2.4.nupkg.sha512"
+    },
+    "System.ComponentModel.Annotations/4.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ToiYqSCioqhtspq2O/jYKtyTC/T0uwWHBTYlzCi6PRbSSHArN1IaRWeHffDamvms5sye5FDUWCfNZgubQpNRsA==",
+      "path": "system.componentmodel.annotations/4.4.1",
+      "hashPath": "system.componentmodel.annotations.4.4.1.nupkg.sha512"
+    }
+  }
+}

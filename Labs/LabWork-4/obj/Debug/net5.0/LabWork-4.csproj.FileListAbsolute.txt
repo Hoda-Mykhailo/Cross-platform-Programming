@@ -1,0 +1,63 @@
+E:\Univer\Course_4\CrossPlatform\Labs\LabWork-4\bin\Debug\net5.0\LabWork-4.exe
+E:\Univer\Course_4\CrossPlatform\Labs\LabWork-4\bin\Debug\net5.0\LabWork-4.deps.json
+E:\Univer\Course_4\CrossPlatform\Labs\LabWork-4\bin\Debug\net5.0\LabWork-4.runtimeconfig.json
+E:\Univer\Course_4\CrossPlatform\Labs\LabWork-4\bin\Debug\net5.0\LabWork-4.runtimeconfig.dev.json
+E:\Univer\Course_4\CrossPlatform\Labs\LabWork-4\bin\Debug\net5.0\LabWork-4.dll
+E:\Univer\Course_4\CrossPlatform\Labs\LabWork-4\bin\Debug\net5.0\ref\LabWork-4.dll
+E:\Univer\Course_4\CrossPlatform\Labs\LabWork-4\bin\Debug\net5.0\LabWork-4.pdb
+E:\Univer\Course_4\CrossPlatform\Labs\LabWork-4\bin\Debug\net5.0\dotenv.net.dll
+E:\Univer\Course_4\CrossPlatform\Labs\LabWork-4\bin\Debug\net5.0\McMaster.Extensions.CommandLineUtils.dll
+E:\Univer\Course_4\CrossPlatform\Labs\LabWork-4\bin\Debug\net5.0\LibraryForLab4.dll
+E:\Univer\Course_4\CrossPlatform\Labs\LabWork-4\bin\Debug\net5.0\LibraryForLab4.pdb
+E:\Univer\Course_4\CrossPlatform\Labs\LabWork-4\obj\Debug\net5.0\LabWork-4.csproj.AssemblyReference.cache
+E:\Univer\Course_4\CrossPlatform\Labs\LabWork-4\obj\Debug\net5.0\LabWork-4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Univer\Course_4\CrossPlatform\Labs\LabWork-4\obj\Debug\net5.0\LabWork-4.AssemblyInfoInputs.cache
+E:\Univer\Course_4\CrossPlatform\Labs\LabWork-4\obj\Debug\net5.0\LabWork-4.AssemblyInfo.cs
+E:\Univer\Course_4\CrossPlatform\Labs\LabWork-4\obj\Debug\net5.0\LabWork-4.csproj.CoreCompileInputs.cache
+E:\Univer\Course_4\CrossPlatform\Labs\LabWork-4\obj\Debug\net5.0\LabWork-4.csproj.CopyComplete
+E:\Univer\Course_4\CrossPlatform\Labs\LabWork-4\obj\Debug\net5.0\LabWork-4.dll
+E:\Univer\Course_4\CrossPlatform\Labs\LabWork-4\obj\Debug\net5.0\ref\LabWork-4.dll
+E:\Univer\Course_4\CrossPlatform\Labs\LabWork-4\obj\Debug\net5.0\LabWork-4.pdb
+E:\Univer\Course_4\CrossPlatform\Labs\LabWork-4\obj\Debug\net5.0\LabWork-4.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Рабочий стол\Labs\LabWork-4\bin\Debug\net5.0\LabWork-4.exe
+C:\Users\USER\OneDrive\Рабочий стол\Labs\LabWork-4\bin\Debug\net5.0\LabWork-4.deps.json
+C:\Users\USER\OneDrive\Рабочий стол\Labs\LabWork-4\bin\Debug\net5.0\LabWork-4.runtimeconfig.json
+C:\Users\USER\OneDrive\Рабочий стол\Labs\LabWork-4\bin\Debug\net5.0\LabWork-4.runtimeconfig.dev.json
+C:\Users\USER\OneDrive\Рабочий стол\Labs\LabWork-4\bin\Debug\net5.0\LabWork-4.dll
+C:\Users\USER\OneDrive\Рабочий стол\Labs\LabWork-4\bin\Debug\net5.0\ref\LabWork-4.dll
+C:\Users\USER\OneDrive\Рабочий стол\Labs\LabWork-4\bin\Debug\net5.0\LabWork-4.pdb
+C:\Users\USER\OneDrive\Рабочий стол\Labs\LabWork-4\bin\Debug\net5.0\dotenv.net.dll
+C:\Users\USER\OneDrive\Рабочий стол\Labs\LabWork-4\bin\Debug\net5.0\McMaster.Extensions.CommandLineUtils.dll
+C:\Users\USER\OneDrive\Рабочий стол\Labs\LabWork-4\bin\Debug\net5.0\LibraryForLab4.dll
+C:\Users\USER\OneDrive\Рабочий стол\Labs\LabWork-4\bin\Debug\net5.0\LibraryForLab4.pdb
+C:\Users\USER\OneDrive\Рабочий стол\Labs\LabWork-4\obj\Debug\net5.0\LabWork-4.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Рабочий стол\Labs\LabWork-4\obj\Debug\net5.0\LabWork-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Рабочий стол\Labs\LabWork-4\obj\Debug\net5.0\LabWork-4.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Рабочий стол\Labs\LabWork-4\obj\Debug\net5.0\LabWork-4.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Рабочий стол\Labs\LabWork-4\obj\Debug\net5.0\LabWork-4.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Рабочий стол\Labs\LabWork-4\obj\Debug\net5.0\LabWork-4.csproj.CopyComplete
+C:\Users\USER\OneDrive\Рабочий стол\Labs\LabWork-4\obj\Debug\net5.0\LabWork-4.dll
+C:\Users\USER\OneDrive\Рабочий стол\Labs\LabWork-4\obj\Debug\net5.0\ref\LabWork-4.dll
+C:\Users\USER\OneDrive\Рабочий стол\Labs\LabWork-4\obj\Debug\net5.0\LabWork-4.pdb
+C:\Users\USER\OneDrive\Рабочий стол\Labs\LabWork-4\obj\Debug\net5.0\LabWork-4.genruntimeconfig.cache
+C:\Labs\LabWork-4\bin\Debug\net5.0\LabWork-4.exe
+C:\Labs\LabWork-4\bin\Debug\net5.0\LabWork-4.deps.json
+C:\Labs\LabWork-4\bin\Debug\net5.0\LabWork-4.runtimeconfig.json
+C:\Labs\LabWork-4\bin\Debug\net5.0\LabWork-4.runtimeconfig.dev.json
+C:\Labs\LabWork-4\bin\Debug\net5.0\LabWork-4.dll
+C:\Labs\LabWork-4\bin\Debug\net5.0\ref\LabWork-4.dll
+C:\Labs\LabWork-4\bin\Debug\net5.0\LabWork-4.pdb
+C:\Labs\LabWork-4\bin\Debug\net5.0\dotenv.net.dll
+C:\Labs\LabWork-4\bin\Debug\net5.0\McMaster.Extensions.CommandLineUtils.dll
+C:\Labs\LabWork-4\bin\Debug\net5.0\LibraryForLab4.dll
+C:\Labs\LabWork-4\bin\Debug\net5.0\LibraryForLab4.pdb
+C:\Labs\LabWork-4\obj\Debug\net5.0\LabWork-4.csproj.AssemblyReference.cache
+C:\Labs\LabWork-4\obj\Debug\net5.0\LabWork-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Labs\LabWork-4\obj\Debug\net5.0\LabWork-4.AssemblyInfoInputs.cache
+C:\Labs\LabWork-4\obj\Debug\net5.0\LabWork-4.AssemblyInfo.cs
+C:\Labs\LabWork-4\obj\Debug\net5.0\LabWork-4.csproj.CoreCompileInputs.cache
+C:\Labs\LabWork-4\obj\Debug\net5.0\LabWork-4.csproj.CopyComplete
+C:\Labs\LabWork-4\obj\Debug\net5.0\LabWork-4.dll
+C:\Labs\LabWork-4\obj\Debug\net5.0\ref\LabWork-4.dll
+C:\Labs\LabWork-4\obj\Debug\net5.0\LabWork-4.pdb
+C:\Labs\LabWork-4\obj\Debug\net5.0\LabWork-4.genruntimeconfig.cache

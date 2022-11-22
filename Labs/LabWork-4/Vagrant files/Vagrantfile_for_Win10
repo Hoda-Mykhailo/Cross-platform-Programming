@@ -1,0 +1,8 @@
+Vagrant.configure("2") do |config|
+  config.vm.box = "gusztavvargadr/windows-10"
+  #config.vm.provision "shell", inline: "Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1%27))" 
+  #config.vm.provision "shell", inline: "choco install dotnet-5.0-sdk -y"
+  #config.vm.provision "shell", inline: "dotnet nuget add source --name MHoda http://10.0.2.2:5000/baget/v3/index.json"
+  #config.vm.provision "shell", inline: "dotnet tool install CrossPlatform-lab4 --tool-path C:\\Users\\vagrant\\lab4\\" 
+  config.vm.provision "shell", inline: "dotnet tool update CrossPlatform-lab4 --tool-path C:\\Users\\vagrant\\lab4\\ --no-cache"
+end

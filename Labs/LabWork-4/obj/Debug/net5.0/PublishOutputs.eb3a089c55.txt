@@ -1,0 +1,9 @@
+E:\Univer\Course_4\CrossPlatform\Labs\LabWork-4\bin\Debug\net5.0\publish\LabWork-4.exe
+E:\Univer\Course_4\CrossPlatform\Labs\LabWork-4\bin\Debug\net5.0\publish\LabWork-4.dll
+E:\Univer\Course_4\CrossPlatform\Labs\LabWork-4\bin\Debug\net5.0\publish\LabWork-4.deps.json
+E:\Univer\Course_4\CrossPlatform\Labs\LabWork-4\bin\Debug\net5.0\publish\LabWork-4.runtimeconfig.json
+E:\Univer\Course_4\CrossPlatform\Labs\LabWork-4\bin\Debug\net5.0\publish\LabWork-4.pdb
+E:\Univer\Course_4\CrossPlatform\Labs\LabWork-4\bin\Debug\net5.0\publish\dotenv.net.dll
+E:\Univer\Course_4\CrossPlatform\Labs\LabWork-4\bin\Debug\net5.0\publish\McMaster.Extensions.CommandLineUtils.dll
+E:\Univer\Course_4\CrossPlatform\Labs\LabWork-4\bin\Debug\net5.0\publish\LibraryForLab4.dll
+E:\Univer\Course_4\CrossPlatform\Labs\LabWork-4\bin\Debug\net5.0\publish\LibraryForLab4.pdb

@@ -1,0 +1,34 @@
+E:\Univer\Course_4\CrossPlatform\Labs\LibraryForLab4\bin\Debug\net5.0\LibraryForLab4.deps.json
+E:\Univer\Course_4\CrossPlatform\Labs\LibraryForLab4\bin\Debug\net5.0\LibraryForLab4.dll
+E:\Univer\Course_4\CrossPlatform\Labs\LibraryForLab4\bin\Debug\net5.0\ref\LibraryForLab4.dll
+E:\Univer\Course_4\CrossPlatform\Labs\LibraryForLab4\bin\Debug\net5.0\LibraryForLab4.pdb
+E:\Univer\Course_4\CrossPlatform\Labs\LibraryForLab4\obj\Debug\net5.0\LibraryForLab4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Univer\Course_4\CrossPlatform\Labs\LibraryForLab4\obj\Debug\net5.0\LibraryForLab4.AssemblyInfoInputs.cache
+E:\Univer\Course_4\CrossPlatform\Labs\LibraryForLab4\obj\Debug\net5.0\LibraryForLab4.AssemblyInfo.cs
+E:\Univer\Course_4\CrossPlatform\Labs\LibraryForLab4\obj\Debug\net5.0\LibraryForLab4.csproj.CoreCompileInputs.cache
+E:\Univer\Course_4\CrossPlatform\Labs\LibraryForLab4\obj\Debug\net5.0\LibraryForLab4.dll
+E:\Univer\Course_4\CrossPlatform\Labs\LibraryForLab4\obj\Debug\net5.0\ref\LibraryForLab4.dll
+E:\Univer\Course_4\CrossPlatform\Labs\LibraryForLab4\obj\Debug\net5.0\LibraryForLab4.pdb
+C:\Users\USER\OneDrive\Рабочий стол\Labs\LibraryForLab4\bin\Debug\net5.0\LibraryForLab4.deps.json
+C:\Users\USER\OneDrive\Рабочий стол\Labs\LibraryForLab4\bin\Debug\net5.0\LibraryForLab4.dll
+C:\Users\USER\OneDrive\Рабочий стол\Labs\LibraryForLab4\bin\Debug\net5.0\ref\LibraryForLab4.dll
+C:\Users\USER\OneDrive\Рабочий стол\Labs\LibraryForLab4\bin\Debug\net5.0\LibraryForLab4.pdb
+C:\Users\USER\OneDrive\Рабочий стол\Labs\LibraryForLab4\obj\Debug\net5.0\LibraryForLab4.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Рабочий стол\Labs\LibraryForLab4\obj\Debug\net5.0\LibraryForLab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Рабочий стол\Labs\LibraryForLab4\obj\Debug\net5.0\LibraryForLab4.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Рабочий стол\Labs\LibraryForLab4\obj\Debug\net5.0\LibraryForLab4.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Рабочий стол\Labs\LibraryForLab4\obj\Debug\net5.0\LibraryForLab4.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Рабочий стол\Labs\LibraryForLab4\obj\Debug\net5.0\LibraryForLab4.dll
+C:\Users\USER\OneDrive\Рабочий стол\Labs\LibraryForLab4\obj\Debug\net5.0\ref\LibraryForLab4.dll
+C:\Users\USER\OneDrive\Рабочий стол\Labs\LibraryForLab4\obj\Debug\net5.0\LibraryForLab4.pdb
+C:\Labs\LibraryForLab4\bin\Debug\net5.0\LibraryForLab4.deps.json
+C:\Labs\LibraryForLab4\bin\Debug\net5.0\LibraryForLab4.dll
+C:\Labs\LibraryForLab4\bin\Debug\net5.0\ref\LibraryForLab4.dll
+C:\Labs\LibraryForLab4\bin\Debug\net5.0\LibraryForLab4.pdb
+C:\Labs\LibraryForLab4\obj\Debug\net5.0\LibraryForLab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Labs\LibraryForLab4\obj\Debug\net5.0\LibraryForLab4.AssemblyInfoInputs.cache
+C:\Labs\LibraryForLab4\obj\Debug\net5.0\LibraryForLab4.AssemblyInfo.cs
+C:\Labs\LibraryForLab4\obj\Debug\net5.0\LibraryForLab4.csproj.CoreCompileInputs.cache
+C:\Labs\LibraryForLab4\obj\Debug\net5.0\LibraryForLab4.dll
+C:\Labs\LibraryForLab4\obj\Debug\net5.0\ref\LibraryForLab4.dll
+C:\Labs\LibraryForLab4\obj\Debug\net5.0\LibraryForLab4.pdb

@@ -1,0 +1,37 @@
+﻿
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <Version>0.0.10</Version>
+    <Authors>Hoda Mykhailo</Authors>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <PackAsTool>true</PackAsTool>
+    <PackageId>CrossPlatform-lab4</PackageId>
+    <ToolCommandName>MHoda</ToolCommandName>
+    <PackageOutputPath>./nupkg</PackageOutputPath>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageType>DotNetCliTool</PackageType>
+  </PropertyGroup>
+
+  <Target BeforeTargets="Build" Name="CleanPackages">
+    <RemoveDir Directories="./nupkg" />
+  </Target>
+
+  <Target AfterTargets="Pack" Name="PushToBaget">
+    <Exec Condition="$(Configuration) == 'Release'" Command="dotnet nuget push &quot;nupkg\*.nupkg&quot; -s http://localhost:5000/baget/v3/index.json" />
+  </Target>
+
+  <ItemGroup>
+    <PackageReference Include="dotenv.net" Version="3.1.1" />
+    <PackageReference Include="McMaster.Extensions.CommandLineUtils" Version="3.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LibraryForLab4\LibraryForLab4.csproj" />
+  </ItemGroup>
+
+</Project>

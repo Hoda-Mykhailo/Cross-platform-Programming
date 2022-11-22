@@ -1,0 +1,9 @@
+C:\Labs\LabWork-4\bin\Debug\net5.0\publish\LabWork-4.exe
+C:\Labs\LabWork-4\bin\Debug\net5.0\publish\LabWork-4.dll
+C:\Labs\LabWork-4\bin\Debug\net5.0\publish\LabWork-4.deps.json
+C:\Labs\LabWork-4\bin\Debug\net5.0\publish\LabWork-4.runtimeconfig.json
+C:\Labs\LabWork-4\bin\Debug\net5.0\publish\LabWork-4.pdb
+C:\Labs\LabWork-4\bin\Debug\net5.0\publish\dotenv.net.dll
+C:\Labs\LabWork-4\bin\Debug\net5.0\publish\McMaster.Extensions.CommandLineUtils.dll
+C:\Labs\LabWork-4\bin\Debug\net5.0\publish\LibraryForLab4.dll
+C:\Labs\LabWork-4\bin\Debug\net5.0\publish\LibraryForLab4.pdb

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>CrossPlatform-lab4</id>
+    <version>0.0.10</version>
+    <authors>Hoda Mykhailo</authors>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+  </metadata>
+  <files>
+    <file src="C:\Labs\LabWork-4\obj\DotnetToolSettings.xml" target="tools\net5.0\any\DotnetToolSettings.xml" />
+    <file src="C:\Labs\LabWork-4\bin\Debug\net5.0\publish\LabWork-4.dll" target="tools\net5.0\any\LabWork-4.dll" />
+    <file src="C:\Labs\LabWork-4\bin\Debug\net5.0\publish\LabWork-4.deps.json" target="tools\net5.0\any\LabWork-4.deps.json" />
+    <file src="C:\Labs\LabWork-4\bin\Debug\net5.0\publish\LabWork-4.runtimeconfig.json" target="tools\net5.0\any\LabWork-4.runtimeconfig.json" />
+    <file src="C:\Labs\LabWork-4\bin\Debug\net5.0\publish\LabWork-4.pdb" target="tools\net5.0\any\LabWork-4.pdb" />
+    <file src="C:\Labs\LabWork-4\bin\Debug\net5.0\publish\dotenv.net.dll" target="tools\net5.0\any\dotenv.net.dll" />
+    <file src="C:\Labs\LabWork-4\bin\Debug\net5.0\publish\McMaster.Extensions.CommandLineUtils.dll" target="tools\net5.0\any\McMaster.Extensions.CommandLineUtils.dll" />
+    <file src="C:\Labs\LabWork-4\bin\Debug\net5.0\publish\LibraryForLab4.dll" target="tools\net5.0\any\LibraryForLab4.dll" />
+    <file src="C:\Labs\LabWork-4\bin\Debug\net5.0\publish\LibraryForLab4.pdb" target="tools\net5.0\any\LibraryForLab4.pdb" />
+  </files>
+</package>

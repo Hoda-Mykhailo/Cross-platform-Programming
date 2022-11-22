@@ -1,0 +1,9 @@
+C:\Users\USER\OneDrive\Рабочий стол\Labs\LabWork-4\bin\Debug\net5.0\publish\LabWork-4.exe
+C:\Users\USER\OneDrive\Рабочий стол\Labs\LabWork-4\bin\Debug\net5.0\publish\LabWork-4.dll
+C:\Users\USER\OneDrive\Рабочий стол\Labs\LabWork-4\bin\Debug\net5.0\publish\LabWork-4.deps.json
+C:\Users\USER\OneDrive\Рабочий стол\Labs\LabWork-4\bin\Debug\net5.0\publish\LabWork-4.runtimeconfig.json
+C:\Users\USER\OneDrive\Рабочий стол\Labs\LabWork-4\bin\Debug\net5.0\publish\LabWork-4.pdb
+C:\Users\USER\OneDrive\Рабочий стол\Labs\LabWork-4\bin\Debug\net5.0\publish\dotenv.net.dll
+C:\Users\USER\OneDrive\Рабочий стол\Labs\LabWork-4\bin\Debug\net5.0\publish\McMaster.Extensions.CommandLineUtils.dll
+C:\Users\USER\OneDrive\Рабочий стол\Labs\LabWork-4\bin\Debug\net5.0\publish\LibraryForLab4.dll
+C:\Users\USER\OneDrive\Рабочий стол\Labs\LabWork-4\bin\Debug\net5.0\publish\LibraryForLab4.pdb

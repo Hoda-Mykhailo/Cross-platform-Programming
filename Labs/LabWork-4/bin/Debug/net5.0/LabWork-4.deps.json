@@ -1,0 +1,82 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LabWork-4/0.0.10": {
+        "dependencies": {
+          "LibraryForLab4": "1.0.0",
+          "McMaster.Extensions.CommandLineUtils": "3.1.0",
+          "dotenv.net": "3.1.1"
+        },
+        "runtime": {
+          "LabWork-4.dll": {}
+        }
+      },
+      "dotenv.net/3.1.1": {
+        "runtime": {
+          "lib/netstandard2.1/dotenv.net.dll": {
+            "assemblyVersion": "3.1.1.0",
+            "fileVersion": "3.1.1.0"
+          }
+        }
+      },
+      "McMaster.Extensions.CommandLineUtils/3.1.0": {
+        "dependencies": {
+          "System.ComponentModel.Annotations": "5.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/McMaster.Extensions.CommandLineUtils.dll": {
+            "assemblyVersion": "3.1.0.0",
+            "fileVersion": "3.1.0.0"
+          }
+        }
+      },
+      "System.ComponentModel.Annotations/5.0.0": {},
+      "LibraryForLab4/1.0.0": {
+        "dependencies": {
+          "McMaster.Extensions.CommandLineUtils": "3.1.0"
+        },
+        "runtime": {
+          "LibraryForLab4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LabWork-4/0.0.10": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "dotenv.net/3.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SjU7/mnA1+cYLf0Bnf+8XNYmzfWn6I//mhu84sgfnrM+bvt6/1GMZK0wfrDVY8wRoZACkcLbmT9h28dJ0MtlTA==",
+      "path": "dotenv.net/3.1.1",
+      "hashPath": "dotenv.net.3.1.1.nupkg.sha512"
+    },
+    "McMaster.Extensions.CommandLineUtils/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DNtyIXVFKpdoHIkd9+vqaIsari6ThQHGAvy4lwOIzAgSGHSJBWaG1K62MHGoyG4uyntpONlrBP9joKGRiJprkQ==",
+      "path": "mcmaster.extensions.commandlineutils/3.1.0",
+      "hashPath": "mcmaster.extensions.commandlineutils.3.1.0.nupkg.sha512"
+    },
+    "System.ComponentModel.Annotations/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dMkqfy2el8A8/I76n2Hi1oBFEbG1SfxD2l5nhwXV3XjlnOmwxJlQbYpJH4W51odnU9sARCSAgv7S3CyAFMkpYg==",
+      "path": "system.componentmodel.annotations/5.0.0",
+      "hashPath": "system.componentmodel.annotations.5.0.0.nupkg.sha512"
+    },
+    "LibraryForLab4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
